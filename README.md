@@ -86,3 +86,12 @@ python train_model.py
 # Lancer l'interface utilisateur
 python -m streamlit run app.py
 ```
+
+## Screens
+
+- **Description :** Le dossier `screens` contient des captures d'écran de l'application (interface, exemples d'entrées/sorties, visualisations).
+- **Comment voir :** Ouvrez le dossier `screens` dans l'explorateur de fichiers ou utilisez un visualiseur d'images.
+- **Fichiers présents :**
+	- `screens/1.png`
+	- `screens/2.png`
+	- `screens/3.png`

@@ -11,7 +11,7 @@ def load_model():
 model = load_model()
 
 st.set_page_config(page_title="Telco Churn Detection", layout="wide")
-st.title("📉 Système de prédiction de churn client (Télecom)")
+st.title("📉 Système de prédiction de churn client")
 
 tab1, tab2 = st.tabs(["🔮 Prédiction individuelle", "📊 Dashboard simple"])
 
